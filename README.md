@@ -7,6 +7,7 @@ Delayed appointments
 Poor patient–doctor communication
 Lack of centralized digital healthcare systems
 
+
 Many patients face difficulties in:
 Booking appointments efficiently
 Communicating with doctors outside hospital visits
